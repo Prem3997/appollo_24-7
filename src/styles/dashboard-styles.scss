@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+#dashboard{
+    margin-left: 26px;
+    margin-top: 140px;
+    margin-bottom: 34px;
+} 
+
+#user{
+    text-align: left;
+    font-weight: Bold; 
+    font-size: 23px; 
+    font-family:  IBM Plex Sans;
+    letter-spacing: 0;
+    color: #0087BA;
+    opacity: 1;
+}
+
+#quickLink{
+    margin-top: 208px;
+    margin-left: 730px;
+    width: 100px;
+    height: 23px;
+    text-align: left;
+    font: Medium;
+    font-size: 18px/23px ; 
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #68919D;
+    opacity: 1;
+}
+
+#addNewAdmin{
+    width: 165px;
+    height: 46px;
+    background: #FCB716 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: white;
+}
+
+#addNewAdminText{
+    margin-top: 20px;
+    width: 130px;
+    height: 20px;
+    text-align: left;
+    font: medium;
+    font-size:16px/20px ; 
+    font-family: IBM Plex Sans;  
+    letter-spacing: 0;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+}
+
+#card-border{
+    margin-left: 26px;
+    width: 169px;
+    height: 128px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #D7D8D4;
+    opacity: 1;
+}
+
+#cardComponent{
+    display: flex;
+}
+
+#doctorStatus{
+    margin-top: 38px;
+    margin-left:7px;
+    width: 166px;
+    height: 30px;
+    text-align: right;
+    font: Bold 23px/30px IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}
+
+
+#card-count{
+    margin-top: 40px;
+    margin-left: 125px;
+    width: 22px;
+    height: 47px;
+    text-align: right;
+    font: bold ;
+    font-size:36px;
+    font-family:IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}
+
+#card-image{
+    width: 17px;
+    height: 17px;
+    margin-left:10px;
+    margin-top:-5px
+}
+#card-name{
+    margin-left: 8.75px;
+    width: 71px;
+    height: 27px;
+    text-align: left;
+    font-weight: Medium ;
+    font-size: 20px ;
+    font-family:  IBM Plex Sans;
+    letter-spacing: 0;
+    color: #68919D;
+    opacity: 1;
+}

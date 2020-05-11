@@ -1,0 +1,334 @@
+{
+  "superAdmin":[
+      {
+          "id":1,
+          "superAdminName":"John Vincent",
+          "password":"123456",
+          "admin":[
+              {
+                  "id":1,
+                  "adminUserId":"RamaAdminUser",
+                  "adminName":"Rama Krishna",
+                  "description":"Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin.",
+                  "shortDescription":"Apollo Hyderabad specialists",
+                  "email":"Ramakrishna@apollo.com",
+                  "phone":9876543210,
+                  "password":"123456",
+                  "doctors":[
+                      {
+                          "id":1,
+                          "doctorName":"Dr.Arumugam Suryan",
+                          "speciality":"Urology",
+                          "MCINumber":10098388,
+                          "location":"Hyderabad",
+                          "type":"Payroll",
+                          "status":"online"
+                      },
+                      {
+                          "id":2,
+                          "doctorName":"Dr.John Praveen",
+                          "speciality":"Cardiology",
+                          "MCINumber":10098389,
+                          "location":"Hyderabad",
+                          "type":"Apollo",
+                          "status":"on consult"
+                      },
+                      {
+                          "id":3,
+                          "doctorName":"Dr.Kumar Ravi",
+                          "speciality":"General Physician",
+                          "MCINumber":10098388,
+                          "location":"Hyderabad",
+                          "type":"Payroll",
+                          "status":"offline"
+                      }
+
+                  ]
+              },
+              {
+                  "id":2,
+                  "adminUserId":"VickyAdminUser",
+                  "adminName":"Vicky Joseph",
+                  "description":"Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin.",
+                  "shortDescription":"Apollo Hyderabad specialists",
+                  "email":"VickyJoseph@apollo.com",
+                  "phone":9876543210,
+                  "password":"123456",
+                  "doctors":[
+                      {
+                          "id":1,
+                          "doctorName":"Dr.Prasanna Rajkumar",
+                          "speciality":"Pulmonology",
+                          "MCINumber":10098389,
+                          "location":"Chennai",
+                          "type":"Junior",
+                          "status":"online"
+                      }
+                      
+
+                  ]
+              },{
+                  "id":3,
+                  "adminUserId":"RamaAdminUser",
+                  "adminName":"Jack",
+                  "description":"Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin.",
+                  "shortDescription":"Apollo Hyderabad specialists",
+                  "email":"Ramakrishna@apollo.com",
+                  "phone":9876543210,
+                  "password":"123456",
+                  "doctors":[
+                      {
+                          "id":1,
+                          "doctorName":"Dr.Arumugam Suryan",
+                          "speciality":"Urology",
+                          "MCINumber":10098388,
+                          "location":"Hyderabad",
+                          "type":"Payroll",
+                          "status":"online"
+                      },
+                      {
+                          "id":2,
+                          "doctorName":"Dr.John Praveen",
+                          "speciality":"Cardiology",
+                          "MCINumber":10098389,
+                          "location":"Hyderabad",
+                          "type":"Apollo",
+                          "status":"on consult"
+                      },
+                      {
+                          "id":3,
+                          "doctorName":"Dr.Kumar Ravi",
+                          "speciality":"General Physician",
+                          "MCINumber":10098388,
+                          "location":"Hyderabad",
+                          "type":"Payroll",
+                          "status":"offline"
+                      },{
+                          "id":4,
+                          "doctorName":"Dr.Singh Yuvraj",
+                          "speciality":"Cardiology",
+                          "MCINumber":10098390,
+                          "location":"Bengaluru",
+                          "type":"Apollo",
+                          "status":"on consult"
+                      },
+                      {
+                          "id":5,
+                          "doctorName":"Dr.Kumar Ravi",
+                          "speciality":"General Physician",
+                          "MCINumber":10098391,
+                          "location":"Chennai",
+                          "type":"Payroll",
+                          "status":"offline"
+                      }
+
+                  ]
+              },
+              {
+                  "id":4,
+                  "adminUserId":"RamaAdminUser",
+                  "adminName":"John",
+                  "description":"Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin.",
+                  "shortDescription":"Apollo Hyderabad specialists",
+                  "email":"Ramakrishna@apollo.com",
+                  "phone":9876543210,
+                  "password":"123456",
+                  "doctors":[
+                      {
+                          "id":1,
+                          "doctorName":"Dr.Arumugam Suryan",
+                          "speciality":"Urology",
+                          "MCINumber":10098388,
+                          "location":"Hyderabad",
+                          "type":"Payroll",
+                          "status":"online"
+                      },
+                      {
+                          "id":2,
+                          "doctorName":"Dr.John Praveen",
+                          "speciality":"Cardiology",
+                          "MCINumber":10098389,
+                          "location":"Hyderabad",
+                          "type":"Apollo",
+                          "status":"on consult"
+                      },
+                      {
+                          "id":3,
+                          "doctorName":"Dr.Kumar Ravi",
+                          "speciality":"General Physician",
+                          "MCINumber":10098388,
+                          "location":"Hyderabad",
+                          "type":"Payroll",
+                          "status":"offline"
+                      }
+
+                  ]
+              },
+              {
+                  "id":5,
+                  "adminUserId":"RamaAdminUser",
+                  "adminName":"Rama ",
+                  "description":"Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin.",
+                  "shortDescription":"Apollo Hyderabad specialists",
+                  "email":"Ramakrishna@apollo.com",
+                  "phone":9876543210,
+                  "password":"123456",
+                  "doctors":[
+                      {
+                          "id":1,
+                          "doctorName":"Dr.Arumugam Suryan",
+                          "speciality":"Urology",
+                          "MCINumber":10098388,
+                          "location":"Hyderabad",
+                          "type":"Payroll",
+                          "status":"online"
+                      },
+                      {
+                          "id":2,
+                          "doctorName":"Dr.John Praveen",
+                          "speciality":"Cardiology",
+                          "MCINumber":10098389,
+                          "location":"Hyderabad",
+                          "type":"Apollo",
+                          "status":"on consult"
+                      }
+                     
+
+                  ]
+              },
+              {
+                  "id":6,
+                  "adminUserId":"RamaAdminUser",
+                  "adminName":"Krishna",
+                  "description":"Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin Apollo Hyderabad specialists doctors admin.",
+                  "shortDescription":"Apollo Hyderabad specialists",
+                  "email":"Ramakrishna@apollo.com",
+                  "phone":9876543210,
+                  "password":"123456",
+                  "doctors":[
+                      {
+                          "id":1,
+                          "doctorName":"Dr.Arumugam Suryan",
+                          "speciality":"Urology",
+                          "MCINumber":10098388,
+                          "location":"Hyderabad",
+                          "type":"Payroll",
+                          "status":"online"
+                      },
+                      {
+                          "id":2,
+                          "doctorName":"Dr.John Praveen",
+                          "speciality":"Cardiology",
+                          "MCINumber":10098389,
+                          "location":"Hyderabad",
+                          "type":"Apollo",
+                          "status":"on consult"
+                      },
+                      {
+                          "id":3,
+                          "doctorName":"Dr.Kumar Ravi",
+                          "speciality":"General Physician",
+                          "MCINumber":10098388,
+                          "location":"Hyderabad",
+                          "type":"Payroll",
+                          "status":"offline"
+                      }, {
+                          "id":4,
+                          "doctorName":"Dr.Kumar Ravi",
+                          "speciality":"General Physician",
+                          "MCINumber":10098388,
+                          "location":"Hyderabad",
+                          "type":"Payroll",
+                          "status":"offline"
+                      }
+
+                  ]
+              }
+          ]
+
+      }
+  ],
+  "availableDoctors":[
+      {
+          "id":1,
+          "doctorName":"Dr.Baskar Prasad",
+          "speciality":"Pulmonology",
+          "MCINumber":10098392,
+          "location":"Chennai",
+          "type":"Junior",
+          "status":"online"
+      },
+      {
+          "id":2,
+          "doctorName":"Dr.Benjamin Fred",
+          "speciality":"Cardiology",
+          "MCINumber":10098393,
+          "location":"Bengaluru",
+          "type":"Apollo",
+          "status":"on consult"
+      },
+      {
+          "id":3,
+          "doctorName":"Dr.Ganesh Mohan Kumar",
+          "speciality":"General Physician",
+          "MCINumber":10098394,
+          "location":"Chennai",
+          "type":"Payroll",
+          "status":"offline"
+      },
+      {
+          "id":4,
+          "doctorName":"Dr.Chandra Prasad",
+          "speciality":"Pulmonology",
+          "MCINumber":10098395,
+          "location":"Chennai",
+          "type":"Junior",
+          "status":"online"
+      },
+      {
+          "id":5,
+          "doctorName":"Dr.Dimple Chandan",
+          "speciality":"Cardiology",
+          "MCINumber":10098396,
+          "location":"Bengaluru",
+          "type":"Apollo",
+          "status":"on consult"
+      },
+      {
+          "id":6,
+          "doctorName":"Dr.Hemanth Sundar Rajan",
+          "speciality":"General Physician",
+          "MCINumber":10098397,
+          "location":"Chennai",
+          "type":"Payroll",
+          "status":"offline"
+      },
+      {
+          "id":7,
+          "doctorName":"Dr.Ram Reddy",
+          "speciality":"Pulmonology",
+          "MCINumber":10098398,
+          "location":"Chennai",
+          "type":"Junior",
+          "status":"online"
+      },
+      {
+          "id":8,
+          "doctorName":"Dr.Kannan Subramanyan",
+          "speciality":"Cardiology",
+          "MCINumber":10098399,
+          "location":"Bengaluru",
+          "type":"Apollo",
+          "status":"on consult"
+      },
+      {
+          "id":9,
+          "doctorName":"Dr.William Wright",
+          "speciality":"General Physician",
+          "MCINumber":10098400,
+          "location":"Chennai",
+          "type":"Payroll",
+          "status":"offline"
+      }
+  ]
+}

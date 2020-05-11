@@ -1,0 +1,129 @@
+.mainDiv {
+    display: flex;
+    margin-top: -530px;
+  }
+  .leftCard {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+  }
+  .rightCard {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+  }
+  #buttonCss {
+    border: hidden;
+    background-color: #fcb716;
+    height: 40px;
+    width: 84px;
+    color: white;
+    margin-top: 700px;
+    margin-left: 400px;
+    position: absolute;
+  }
+  #removeCss {
+    border: hidden;
+    margin-top: 780px;
+    margin-left: 30px;
+    width: 87px;
+    height: 20px;
+    text-align: left;
+    font-family: 'IBM Plex Sans';
+    font-size: 16px;
+    background-color: white;
+    color: #fcb716;
+    outline: 0;
+  }
+  
+  .cardCss {
+    padding-top: 20px;
+    padding-left: 20px;
+    position: absolute;
+    margin-top: 612px;
+    margin-left: 52px;
+    width: 323px;
+    height: 373px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #00b38e;
+    opacity: 1;
+    overflow-x: hidden;
+    overflow-y: scroll;
+  }
+  
+  .cardFont {
+    font-family: 'IBM Plex Sans';
+    color: #02475b;
+  }
+  
+  .filterCss {
+    z-index:99;
+    font-family: 'IBM Plex Sans';
+    padding-left: 10px;
+    margin-top: 576px;
+    margin-left: 52px;
+    width: 323px;
+    height: 38px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #00b38e;
+    opacity: 1;
+  }
+  
+  .available-doctors {
+    margin-top: 550px;
+    margin-left: 50px;
+    font-family: 'IBM Plex Sans';
+    position: absolute;
+  }
+  
+  .select1 {
+    text-align: right;
+    margin-left: 135px;
+  }
+  
+  .added-doctors {
+    margin-top: 550px;
+    margin-left: -320px;
+    font-family: 'IBM Plex Sans';
+  }
+  .select2 {
+    margin-left: 150px;
+  }
+  
+  .cancel1 {
+    text-decoration: none;
+    color: orange;
+    font-size: 16px;
+  
+    position: absolute;
+  }
+  .create_admin_button {
+    margin-top: 1015px;
+    margin-left: 255px;
+    position: absolute;
+    width: 153px;
+    height: 40px;
+    background: #fcb716;
+    background-repeat: no-repeat;
+    outline: 0;
+    color: white;
+  }
+  .cancel_button {
+    margin-top: 1017px;
+    margin-left: 170px;
+    border: 0;
+    background-color: white;
+    width: 84px;
+    height: 40px;
+    position: absolute;
+    text-decoration: none;
+    color: #fcb716;
+    font-size: 16px;
+  }
+  
+  .buttons2
+  {
+    margin-left: 100px;
+    position: absolute;
+    
+  }

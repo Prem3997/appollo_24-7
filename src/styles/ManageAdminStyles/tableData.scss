@@ -1,0 +1,44 @@
+// #table-a{
+//   position: absolute;
+//   top: 302px;
+//   margin-right:20px;
+//   margin-left: 26px;
+// }
+
+.table-data{
+  position: absolute;
+  top: 302px;
+  margin-right:20px;
+  margin-left: 26px;
+}
+.doctor-data{
+  margin-top: 7.85px;
+}
+
+.admin-table-a td, .admin-table-a th {
+
+  padding: 8px ;
+  color:#02475B ;
+}
+
+.admin-table-a tr:nth-child(even){
+    background: #F7F8F5 ;
+    }
+
+
+.admin-table-a th{
+  text-align: left;
+  width: 1317px;
+  padding: 8px;
+  background: #F0F1EC 0% 0% no-repeat padding-box;
+  opacity: 1;
+  color: #02475B;
+  font-weight: Medium ;
+  font-size:16px;
+  font-family: IBM Plex Sans;
+}
+
+
+  
+
+

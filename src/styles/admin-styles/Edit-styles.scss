@@ -1,0 +1,317 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+
+$primary-color:#FC9916;
+$primary-font: 'IBM Plex Sans';
+
+.edit-bg-modal{
+  width:1366px;
+  height:1085px;
+  background-color: rgba(0,0,0,0.5);
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  top:0;
+  z-index: 99;
+}
+
+.edit-modal-content{
+  margin-top: 108px;
+  margin-left: 228px;
+  margin-right: 227px;
+  width: 1366px;
+  height: 670px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.main-heading1
+{
+margin-bottom: 18px;
+}
+
+.main-heading2
+{
+  margin-bottom: 14px;
+}
+
+.heading1
+{
+  width: 149px;
+  height: 20px;
+  color: $primary-color;
+  margin-left: 24px;
+  font-family: $primary-font;
+  font-size: medium 16px ;
+  margin-left: 24px;
+}
+
+.heading2
+{
+  width: 169px;
+  height: 30px;
+  color: #68919D;
+  text-align: left;
+  font-family: $primary-font;
+  font-size: medium 23px;
+  margin-bottom: 14px;
+}
+
+.heading3
+{
+  width: 174px;
+  height: 30px;
+  color:#02475B;
+  font-size:23px;
+  font-weight: bold;
+  font-family: $primary-font;
+  margin-left: 24px;
+  margin-bottom: 18px;
+}
+
+.heading4
+{
+  width: 127px;
+  height: 13px;
+  font-size: medium 10px;
+  color: #68919D;
+  margin-bottom: 18px;
+}
+
+.add-main
+{
+  height: 622px;
+  width: 900px;
+  margin-left: 22px;
+}
+
+fieldset
+{
+  border: none;
+}
+
+.basic-details-button
+{
+  color: $primary-color;
+  font-family:$primary-font;
+  font-size: medium 20px;
+  text-align: left;
+  width: 901px;
+  height: 51px;
+  margin-left: 21px;
+  background: #f7f8f5;
+  outline: 0;
+  border: 0;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 29px;
+  display: flex;
+}
+
+.ok-icon
+{
+  color: green;
+  margin-left: 11px;
+  width: 16px;
+  height:16px;
+}
+
+.play-icon
+{
+  color: black;
+  margin-left: 43px;
+  margin-right: 15px;
+  width: 8px;
+  height:16px;
+  -webkit-transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+
+.play-icon-rotate
+{
+  color: black;
+  margin-left: 43px;
+  margin-right: 15px;
+  width: 8px;
+  height:16px;
+  transform: rotate(90deg);
+  -webkit-transition-duration: 0.5s;
+-moz-transition-duration: 0.5s;
+-o-transition-duration: 0.5s;
+transition-duration: 0.5s;
+}
+
+.label
+{
+  
+  height: 18px;
+  text-align: left;
+  font-size: 14px;
+  color: #68919D;
+  margin-left: 30px;
+  font-family: $primary-font;
+}
+
+.i1
+{
+  width: 300px;
+  margin-left: 30px;
+  height: 34px;
+  margin-bottom: 20px;
+  border:1px solid #00B38E;
+  margin-top: 9px;
+ 
+}
+
+.i2
+{
+  width: 114px;
+  height: 34px;
+  text-align: center;
+  margin-bottom: 20px;
+  border:1px solid #00B38E;
+  margin-top: 9px;
+  margin-left: 0px;
+}
+
+.i3
+{
+  width: 521px;
+  height: 95px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  border:1px solid #00B38E;
+  margin-top: 9px;
+  margin-left: 30px;
+
+}
+
+.number{
+  margin-left: 31px;
+}
+
+
+.number {
+  margin-left: 59px;
+  font-family: $primary-font;
+  font-size: medium 14px ;
+  color: #02475B;
+}
+
+.button1{
+  margin-left: 770px;
+  width: 75px;
+  height: 40px;
+  background: #FCB716;
+  background-repeat: no-repeat;
+  outline: 0;
+  margin-top: -10px;
+
+}
+
+.cancel{
+  margin-left:690px;
+  position: absolute;
+  text-decoration: none;
+  color: $primary-color;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.submit-text
+{
+  width: 116px;
+  height: 20px;
+  text-align:left;
+  font-family: $primary-font;
+  color:white ;
+}
+.error-message
+{
+  color: red;
+  margin-left: 24px;
+  line-height: 3em;
+ 
+  
+}
+.message
+{
+display: flex;
+
+}
+
+.admin
+{
+  margin-left: 29px;
+  font-family: $primary-font;
+  color: #68919D;
+  text-align: left;
+}
+
+.admin-name
+{
+  color: #02475B;
+  font-size: medium 16px;
+  font-family: $primary-font;
+  text-align: left;
+  font-weight: bold;
+}
+
+.admin-status
+{
+  width: 848px;
+  height: 48px;
+  background-color:#D2F1FF ;
+  text-align: left;
+  padding-bottom: 17px;
+  padding-top: 17px;
+  margin-left: 29px;
+}
+
+.info-icon
+{
+  margin-left: 15.56px;
+  font-size: medium 22px;
+  color: #0083BE;
+  padding-bottom: 17px;
+  padding-top: 17px;
+}
+
+.admin-user
+{
+  font-size: medium 14px;
+  font-family: $primary-font;
+  
+
+}
+
+.admin-user-created
+{
+  font-size: medium 14px;
+  font-family: $primary-font;
+}
+
+.basic-details
+{
+  margin-left: 11px;
+}
+
+.edit-admin-text{
+  margin-top: 18px;
+  margin-left: 37px;
+  width: 119px;
+  height: 30px;
+  text-align: left;
+  font-weight: Bold;
+  font-size: 23px;
+  font-family: IBM Plex Sans;
+  letter-spacing: 0;
+  color: #02475B;
+  opacity: 1;
+}
+.delete-close-icon{
+  margin-top: -80px;
+  margin-left: 850px;
+  cursor: pointer;
+}

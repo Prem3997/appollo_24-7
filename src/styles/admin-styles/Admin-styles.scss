@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+$primary-textcolor:#02475B;
+.admin-details{
+    margin-top: 140px;
+    margin-left: 24px;
+}
+
+#manage-admins{
+    width: 149px;
+    height: 20px;
+    text-align: left;
+    font: Medium;
+    font-size: 16px;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #FC9916;
+    text-transform: uppercase;
+    opacity: 1;
+}
+
+#admin-user{
+    margin-left: 5px;
+    width: 178px;
+    height: 30px;
+    text-align: left;
+    font: Medium ;
+    font-size:23px;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #68919D;
+    opacity: 1;
+}
+
+#pagination-main{
+    margin-top: 16px;
+    margin-left: 1000px;
+}
+
+
+.admin-table {
+    margin-top: 13px;
+    margin-left: 26px;
+    margin-right: 19px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    
+  }
+  
+  #table{
+    margin-top: 7.85px;
+  }
+  .admin-table td, .admin-table th {
+ 
+    padding: 8px ;
+    color:#02475B ;
+  }
+  
+  .admin-table tr:nth-child(even){
+      background: #F7F8F5 ;
+      }
+  
+  .admin-table tr:hover {background-color: #ffffff;}
+  
+  /* .admin-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color:black;
+    color: white;
+  } */
+  .admin-table th{
+    text-align: left;
+    width: 1317px;
+    //height: 42px;
+    padding: 8px;
+    background: #F0F1EC 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: #02475B;
+    font: Medium ;
+    font-size:16px;
+    font-family: IBM Plex Sans;
+  }
+
+#left-arrow{
+    width: 11px;
+    height: 16px;
+  } 
+
+#viewing{
+    width: 46px;
+    height: 17px;
+    text-align: left;
+    font: Regular;
+    font-size: 13px/10px ;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #68919D;
+    opacity: 1;
+}
+

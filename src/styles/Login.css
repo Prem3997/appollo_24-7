@@ -1,0 +1,197 @@
+
+.wrapper1 {
+    top: 0px;
+    left: 0px; 
+    width:100%;
+    height: 823px;  
+    position: absolute;
+    background: #5A5F5C 0% 0% no-repeat padding-box;  
+}
+.background {
+    top: 0px;
+    left: 0px; 
+    width:100%;
+    height: 823px;   
+    position: absolute; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+    opacity:0.71;
+}
+.form-wrapper1 {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    box-shadow: 10px 10px 50px #555;
+    top: 102px;
+    left: 175px;
+     width: 450px;
+    height: 539px; 
+    /* width:100%;
+    height:100%; */
+    background: #FFFFFF 0% 0% no-repeat padding-box; 
+    opacity: 1;
+} 
+        
+.logo{   
+    position: relative;
+    opacity: 1;
+    top: 34px;
+    left: 131px;
+    width: 170px;
+    height: 122px;
+}
+
+.loginas{
+    top: 186px;
+    left: 49px;
+    width: 72px;
+    height: 18px;
+    text-align: left;
+    font-family:  'IBM Plex Sans',sans-serif;
+    font-size: 14px;
+    color: #68919D;
+    opacity: 1;
+    position: absolute;
+}
+
+#superadmin{
+    position: absolute;
+    top: 186px;
+    left: 111px;
+    width: 13px;
+    height: 16px;
+    background: #FFFFFF 0% 0% no-repeat padding-box; 
+    border: 1px solid #00B38E;
+    color:  #00B38E;
+    opacity: 1;
+}
+
+#admin{
+    position: absolute;
+    top: 186px;
+    left: 220px;
+    width: 14px;
+    height: 16px;
+    background: #FFFFFF 0% 0% no-repeat padding-box; 
+    border: 1px solid #00B38E;
+    color:  #00B38E;
+    opacity: 1;
+}
+.superadmin-span{
+    top: 186px;
+    left: 130px;
+    width: 83px;
+    height: 18px;
+    text-align: left;
+    font-family:'IBM Plex Sans',sans-serif;
+    font-size:14px;
+    color: #02475B;
+    opacity: 1;
+    position: absolute;
+}
+.admin-span1{
+    top: 186px;
+    left: 240px;
+    width: 83px;
+    height: 18px;
+    text-align: left;
+    font-family:'IBM Plex Sans',sans-serif;
+    font-size:14px;
+    color: #02475B;
+    opacity: 1;
+    position: absolute;
+}
+.userid input{
+    position: absolute;
+    top: 225px;
+    left: 34px;
+    width: 388px;
+    height: 49px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #00B38E;
+    opacity: 1;
+    padding:0 14px;
+ }
+.password input{
+    position: absolute;
+    top: 303px;
+    left: 34px;
+    width: 388px;
+    height: 49px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #00B38E;
+    opacity: 1;
+    padding:0 14px;
+}
+.key{
+    top: 323.83px;
+    left: 393.88px;
+    width: 17px;
+    height: 8px;
+    opacity: 1;
+    position: absolute;
+}
+
+.userid input::placeholder {
+    padding:15px 0;
+    width: 48px;
+    height: 18px;
+    text-align: left;
+    font-family: 'IBM Plex Sans',sans-serif;
+    font-size: 14px; 
+    letter-spacing: 0;
+    color: #68919D;
+    opacity: 0.5;
+    position: absolute;
+}
+
+.password input::placeholder {
+    padding:15px 0;
+    width: 48px;
+    height: 18px;
+    text-align: left;
+    font-family: 'IBM Plex Sans',sans-serif;
+    font-size: 14px; 
+    letter-spacing: 0;
+    color: #68919D;
+    opacity: 0.5;
+    position: absolute;
+ }
+.createAccount .login{
+    top: 405px;
+    left: 34px;
+    width: 388px;
+    height: 49px;
+    background-color: #FCB716 ; 
+    color:white;
+    font-family: 'IBM Plex Sans',sans-serif;
+    font-size: 16px;
+    opacity: 1;
+    position: absolute;
+    border:none;
+}
+
+.createAccount .forgot_password{
+    top: 471px;
+    left: 148px;
+    width: 180px;
+    height: 20px;
+    text-align: left;
+    font-family:  'IBM Plex Sans', sans-serif;
+    font-size: 16px;
+    letter-spacing: 0;
+    color: #FC9916;
+    opacity: 1;
+    position: absolute;
+}
+.errormsg{
+    left:49px; 
+    position: absolute;
+}
+
+
+      
+      

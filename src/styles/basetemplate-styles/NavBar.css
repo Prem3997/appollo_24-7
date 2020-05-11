@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+	position:absolute;
+    text-align: center;
+    background: #F0F1EC 0% 0% no-repeat padding-box;
+    opacity: 1;
+    top: 121px;
+    left: 0px;
+   width: 1275px;
+     width:100%;
+     height: 60px;
+}
+
+.navbar-nav{
+    left:0px;
+    position: absolute;
+}
+ 
+    .navbar .navbar__link{
+     list-style-type: none; 
+     float: left; 
+     border: 1px solid #FCB716;
+     top: 121px;
+     left: 0px;
+     height: 60px;
+     background: #FFFFFF 0% 0% no-repeat padding-box;
+     opacity: 1;
+     text-decoration: none;
+     background: #FCB716 ;
+     color: white;
+     
+}
+
+.navbar .navbar__link #navbar-dashboard  {
+         width: 182px;
+        letter-spacing: 0;
+        color: #02475B;
+        height: 60px;
+        border: 1px solid #FCB716;
+     }
+.navbar .navbar__link #navbar-admin {
+         width: 395px; 
+        height: 60px;
+        letter-spacing: 0;
+        color: #02475B; 
+        border: 1px solid #FCB716;
+}
+
+.navbar .navbar__link .dash-span {
+        display: block;
+        padding: 0px;
+        margin:17px;
+        text-decoration: none;
+        font-family: 'IBM Plex Sans', sans-serif;
+        
+}
+ .navbar .navbar__link .admin-span{
+        display: block;
+        padding: 0px;
+        margin:17px;
+        text-decoration: none;
+        font-family: 'IBM Plex Sans', sans-serif;
+       
+}
+
+
+.navbar .navbar__link--active{
+    background:  white;
+    color: black;
+}
+
+.navbar .navbar__link:hover{
+    background:  white;
+    color: black;
+}
+ 

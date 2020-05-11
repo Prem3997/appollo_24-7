@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+.delete-bg-modal{
+    width:1366px;
+    height:1085px;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top:0;
+    z-index: 99;
+}
+
+.delete-modal-content{
+    margin-top: 108px;
+    margin-left: 228px;
+    margin-right: 227px;
+    width: 911px;
+    height: 189px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.close-delete-modal{
+    margin-top:15.56px;
+    margin-right: 19.24px;
+    float: right;
+    cursor: pointer;
+}
+
+.delete-admin-text{
+    margin-top: 19px;
+    margin-left: 31px;
+    width: 147px;
+    height: 30px;
+    text-align: left;
+    font-weight: Bold;
+    font-size: 23px;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}
+
+.delete-text{
+    margin-top: 22px;
+    margin-left: 32px;
+    width: 450px;
+    height: 20px;
+    text-align: left;
+    font-weight: Medium;
+    font-size: 16px;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+}
+
+.delete-admin-name{
+    width: 127px;
+    height: 20px;
+    text-align: left;
+    font-weight: Bold;
+    font-size: 16px;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+}
+
+.cancel-delete-text{
+    margin-top: 36px;
+    margin-left: 717px;
+} 
+
+.cancel-text{
+
+    width: 60px;
+    height: 20px;
+    text-align: left;
+    font-weight: Medium;
+    font-size: 16px;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #FC9916;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.delete-button{
+    
+    margin-left: 14px;
+    width: 91px;
+    height: 40px;
+    background: #FCB716 0% 0% no-repeat padding-box;
+    opacity: 1;
+    color: white;
+    cursor: pointer;
+}
+
+.close-icon{
+    float: right;
+    margin-right: 19.24px;
+    margin-top: -5px;
+    transform: rotate(45deg);
+    width: 18px;
+    height: 18px;
+    background: #02475B 0% 0% no-repeat padding-box;
+    color: white;
+    opacity: 1;
+    cursor: pointer;
+}
+

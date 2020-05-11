@@ -1,0 +1,64 @@
+.pagination-admin{
+    width: 247px;
+    height: 34px;
+    margin-left: 1000px;
+    margin-top: 15px;
+}
+.pagination-manage-admin{
+    position: absolute;
+    top: 252px;
+    left: 1010px;
+    right: 20px;
+    width: 247px;
+    height: 34px;
+    opacity:1;
+    box-sizing: border-box;
+}
+#leftArrow-a{
+    width: 11px;
+    height: 16px;
+    margin-left: 12.51px;
+    margin-top: 8px;
+    background: #F7F8F5 0% 0% no-repeat padding-box;
+}
+#rightArrow-a{
+    width: 11px;
+    height: 16px;
+    margin-left:36px;
+    margin-top: 8px;
+    background: #F7F8F5 0% 0% no-repeat padding-box;
+}
+#view-text1-a{
+    margin-top: 9px;   
+    margin-left:29px;
+    width: 46px;
+    height: 17px;
+    font: normal 13px/10px IBM Plex Sans;
+    letter-spacing: 0;
+    color: #68919D;
+    opacity: 1;
+}
+#view-text2-a{
+   margin-top: 9px;   
+   margin-left:13px;
+   width: 46px;
+   height: 17px;
+   text-align: left;
+   font: normal 13px/10px IBM Plex Sans;
+   letter-spacing: 0;
+   color: #68919D;
+   opacity: 1;
+   }
+#view-number-a{
+    top: 261px;
+    margin-left: 15px;
+    width: 33px;
+    height: 17px;
+    text-align: left;
+    font-weight: medium;
+    font-style:IBM Plex Sans;
+    font-size: 13px;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}

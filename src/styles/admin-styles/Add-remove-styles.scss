@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+.remove-bg-modal{
+    width:1366px;
+    height:1085px;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top:0;
+    z-index: 99;
+}
+
+.remove-modal-content{
+    width:950px;
+    height:650px;
+    background-color: white;
+    padding: 20px;
+    position: relative;
+    margin-top: 100px;
+    z-index: 999;
+}
+
+.add-remove-text{
+    width: 432px;
+    height: 30px;
+    margin-left: 50px;
+    text-align: left;
+    font-weight: Bold;
+    font-size: 23px;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}
+
+.remove-close-icon{
+    margin-top: -80px;
+    margin-left: 850px;
+    cursor: pointer;
+}
+

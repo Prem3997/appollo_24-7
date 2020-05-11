@@ -1,0 +1,55 @@
+#admin-header{
+    position: absolute;
+    top:210px;
+    left:26px;
+    font: Bold 23px/30px IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}
+#admin-header-small{
+    position: absolute;
+    top:213px;
+    left:205px;
+    font:Medium 12px/15px IBM Plex Sans;
+    letter-spacing: 0;
+    color: #68919D;
+    opacity: 1;
+}
+
+#quickLink-admin{
+    position: absolute;
+    top: 208px;
+    left: 1000px;
+    width: 100px;
+    height: 23px;
+    font: Medium 18px/23px IBM Plex Sans;
+    letter-spacing: 0;
+    color: #68919D;
+    opacity: 1;
+}
+
+#addNewAdmin-admin{
+    position: absolute;
+    top:196px;
+    width: 165px;
+    height: 46px;
+    left: 1093px;
+    right: 20px;
+    background: #FCB716 0% 0% no-repeat padding-box;
+    border: none;
+    opacity: 1;
+    color: white;
+}
+
+#addNewAdminText-admin{
+    width: 130px;
+    height: 20px;
+    text-align: left;
+    font: SemiBold 16px/20px IBM Plex Sans;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+}
+

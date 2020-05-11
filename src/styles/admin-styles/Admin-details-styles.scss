@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
+#adminUser{
+    margin-top: 20px;
+    margin-left: 24px;
+    margin-right: 21px;
+    width: 1250px;
+    height: 235px;
+    border: 1px solid #D7D8D4;
+    opacity: 1;
+}
+#adminDetails{
+    margin-top: 316px;
+    margin-left: 44px;
+    width: 461px;
+    height: 60px;
+    text-align: left;
+    font-weight: Medium;
+    font-size: 16px;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}
+#details{
+    margin-top: 273px;
+    margin-left: 705px;
+    width: 19px;
+    height: 17px;
+}
+#admin-details-right{
+    margin-left: 705px;
+    margin-top:-30px
+}
+#admin-details-left{
+    margin-top: 20px;
+    margin-left: 42px;
+    width: 400px;
+    height: 30px;
+    text-align: left;
+    font-size:23px; 
+    font-family:  IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}
+#admin-description{
+    margin-top: 20px;
+    margin-left: 0px;
+    width: 461px;
+    height: 60px;
+    text-align: left;
+    font-weight: Medium;
+    font-size: 16px ;
+    font-family:  IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+    word-wrap: break-word;
+}
+#admin-details-bottom{
+    margin-top: 66px;
+    margin-left: 47px;
+    opacity: 1;
+}
+#admin-username{
+    margin-top: 266px;
+    margin-left: 12px;
+    font-weight: bold;
+    font-family:  IBM Plex Sans;
+    width: 183px;
+    height: 30px;
+    opacity: 1;
+}
+#doctor-count{
+    margin-left: 14.14px;
+    width: 84px;
+    height: 20px;
+    text-align: left;
+    font-weight: Medium; 
+    font-size:16px;
+    font-family:IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}
+#doctor-email{
+    margin-left: 12px;
+    width: 191px;
+    height: 20px;
+    text-align: left;
+    font-weight: Medium ;
+    font-size:16px; 
+    font-family:IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}
+#doctor-phone{
+    margin-left: 12px;
+    width: 129px;
+    height: 20px;
+    text-align: left;
+    font-weight: Medium; 
+    font-size:16px;
+    font-family:IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}
+#doctor-user-icon{
+    width:19px;
+    height:17px;
+}
+#doctor-email-icon{
+    width: 22px;
+    height: 16.5px;
+}
+#doctor-phone-icon{
+    width: 22px;
+    height: 22px;
+}
+#edit-admin-text{
+    margin-left: 7.38px;
+    width: 93px;
+    height: 20px;
+    text-align: left;
+    font-weight: Medium;
+    font-size: 16px;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #FC9916;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+}
+#addremove-admin-text{
+    margin-left: 7.5px;
+    width: 183px;
+    height: 20px;
+    text-align: left;
+    font-weight: Medium;
+    font-size: 16px;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #FC9916;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+}
+#edit-admin-icon{
+    cursor: pointer;
+}
+#addremove-doctor-icon{
+    margin-left: 17px;
+    cursor: pointer;
+}
+#delete-admin-icon{
+    margin-left:20px;
+    cursor: pointer;
+}
+#delete-admin-text{
+    margin-left: 8.17px;
+    width: 113px;
+    height: 20px;
+    text-align: left;
+    font: Medium ;
+    font-size:16px;
+    font-family: IBM Plex Sans;
+    letter-spacing: 0;
+    color: #FC9916;
+    text-transform: uppercase;
+    opacity: 1;
+    cursor: pointer;
+}
+
+#pagination-view{
+    width: 247px;
+    height: 34px;
+    margin-left: 1000px;
+    margin-top: 15px;
+}
+
+#leftArrow{
+    cursor: pointer;
+    width: 11px;
+    height: 16px;
+    opacity: 1;
+}
+
+#rightArrow{
+    width: 11px;
+    height: 16px;
+    margin-left:36px;
+    margin-top: 8px;
+    cursor: pointer;
+}
+
+#view-text1{
+   margin-top: 9px;   
+   margin-left:29px;
+   width: 46px;
+   height: 17px;
+   text-align: left;
+   //font-weight: normal;
+   font-weight: normal;
+   font-size: 13px;
+   font-family: IBM Plex Sans;
+   letter-spacing: 0;
+   color: #68919D;
+   opacity: 1;
+   }
+
+#view-number{
+
+    margin-left: 15px;
+    width: 33px;
+    height: 17px;
+    text-align: left;
+    font-weight: medium;
+    font-style:IBM Plex Sans;
+    font-size: 13px;
+    //font: Medium 2px IBM Plex Sans;
+    letter-spacing: 0;
+    color: #02475B;
+    opacity: 1;
+}
+
+#view-text2{  
+   margin-left:13px;
+   width: 46px;
+   height: 17px;
+   text-align: left;
+   //font-weight: normal;
+   font-weight: normal;
+   font-size: 13px;
+   font-family: IBM Plex Sans;
+   letter-spacing: 0;
+   color: #68919D;
+   opacity: 1;
+   }
